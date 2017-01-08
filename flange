@@ -1,0 +1,14 @@
+#flange
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id = "demo"></>
+
+<script>
+var cars = ["saab", "volvo", "bmw"];
+document.getElementById("demo").innerHTML = cars;
+</script>
+
+</body>
+</html>
